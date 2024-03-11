@@ -1,10 +1,10 @@
 👋 Hi, I’m @jenaundesigns aka Jennifer Aun!
 
-Resume (download PDF): https://drive.google.com/file/d/18ssuIUEa6aQYa3ObSEz5dwheC45j6HQm/view?pli=1 
+🗂️ Resume (download PDF): https://drive.google.com/file/d/18ssuIUEa6aQYa3ObSEz5dwheC45j6HQm/view?pli=1 
 
-GitHub hosted Resume (from LaTeX Template): https://github.com/jenaundesigns/resume/wiki/LaTeX-Resume 
+♾️ GitHub hosted Resume (from LaTeX Template): https://github.com/jenaundesigns/resume/wiki/LaTeX-Resume 
 
-LinkedIn: https://www.linkedin.com/in/jennifer-aun/ 
+💼 LinkedIn: https://www.linkedin.com/in/jennifer-aun/ 
 
 👀 I’m interested in ...
   - ➥All things Data! I love data visualization, modeling, and finding new ways to use data effectively!
