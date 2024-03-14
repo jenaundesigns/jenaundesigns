@@ -1,7 +1,7 @@
 👋 Hi, I’m @jenaundesigns aka Jennifer Aun!
 
   ♾️ GitHub hosted Resume (from LaTeX Template): https://github.com/jenaundesigns/resume/wiki/LaTeX-Resume 
-
+  💠 Google Developer Profile: https://g.dev/jenniferaun/ 
   💼 LinkedIn: https://www.linkedin.com/in/jennifer-aun/ 
 
 👀 I’m interested in ...
