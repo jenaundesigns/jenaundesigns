@@ -23,7 +23,7 @@
   - 📩 contact@jenaundesigns.com
   - 🌐 https://www.linkedin.com/in/jennifer-aun
 
-  ⚡ Fun fact: 
+  ⚡ Fun fact...
   
    💫 I was a Test Operations Engineer on the NASA/USGS LandSat9 Space Satellite!
     My name, (along with every Landsat 9 team members name), is engraved on a plaque that was
