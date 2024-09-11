@@ -24,7 +24,8 @@
   - 🌐 https://www.linkedin.com/in/jennifer-aun
 
   ⚡ Fun fact: 
-    💫 I was a Test Operations Engineer on the NASA/USGS LandSat9 Space Satellite!
+  
+   💫 I was a Test Operations Engineer on the NASA/USGS LandSat9 Space Satellite!
     My name, (along with every Landsat 9 team members name), is engraved on a plaque that was
     placed on the NASA/USGS Landsat 9 Satellite upon completion, prior to its launch into space
     on September 27th, 2021.
