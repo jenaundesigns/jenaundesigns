@@ -9,17 +9,15 @@
 👀 I’m interested in ...
   - ➥All things Data! I love data visualization, modeling, and finding new ways to use data effectively!
   - ➥Continuous Improvement + Optimization of Processes
-  - ➥Streamlining Processes and creating Value Stream Maps
-  - ➥Continuous learning and innovation
-  - ➥Adding value to everyday task!
+  - ➥Cryptology
 
 🌱 I’m currently learning ...
-- ⇢ How to use Github more. I am also learning nostr!
+- ⇢ Utilizing cryptonym's and nonce's to generate Project names for compartmentalization
 
 💞️ I’m looking to collaborate on ...
 - ➠ Helping with any data-driven projects that could help advance our current understanding of data and up and coming tech (such as AI and ML).
 - ➠ Any group-led efforts that bring together motivated people to solve a problem that could create a positive impact for an organization.
-- ➠ Nostr protocol  
+- ➠ Space Protocols
 
 📫 How to reach me ...
   - 📩 contact@jenaundesigns.com
